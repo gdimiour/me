@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on: 
 **Nothing atm**
 - 📫 How to reach me: 
-**why?**
+**gdimiour@gmail.com**
 
 <!---
 xdimi/xdimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
