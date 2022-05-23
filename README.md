@@ -7,8 +7,5 @@
 - 📫 How to reach me: 
 **gdimiour@gmail.com**
 - ✏️ I'm working on:
-**Heretical, a sandbox RPG game**
-<!---
-xdimi/xdimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**[Heretical](https://github.com/xdimi/Heretical), a sandbox RPG game**
+
