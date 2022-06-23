@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: 
-**@xdimi**
+**@gdimiour**
 - 👀 I’m interested in: 
 **learning new languages and making games and simulations**
 - 🌱 I’m currently learning: 
